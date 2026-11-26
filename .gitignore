@@ -1,0 +1,214 @@
+
+###############################################################################
+# UNREAL ENGINE - GENERATED DIRECTORIES
+###############################################################################
+
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+DerivedDataCacheArtifacts/
+LocalDerivedDataCache/
+PersistentDownloadDir/
+
+# Build and cooking output
+Build/
+Builds/
+Cooked/
+StagedBuilds/
+Releases/
+
+# Unreal automation and temporary output
+Automation/
+AutomationTool/Saved/
+Programs/UnrealBuildTool/Saved/
+
+###############################################################################
+# UNREAL ENGINE - GENERATED FILES
+###############################################################################
+
+*.tmp
+*.temp
+*.log
+*.bak
+*.old
+*.orig
+*.autosave
+*.lock
+
+# Crash reports and dumps
+*.dmp
+*.mdmp
+*.stackdump
+CrashReportClient/
+crashinfo.txt
+
+# Generated build metadata
+*.modules
+*.target
+*.response
+*.receipt
+
+# Generated project files
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.sln.docstates
+*.csproj.user
+*.sln.ide
+
+###############################################################################
+# VISUAL STUDIO
+###############################################################################
+
+.vs/
+.vscode/.browse.*
+*.VC.db-shm
+*.VC.db-wal
+
+###############################################################################
+# JETBRAINS RIDER
+###############################################################################
+
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries/
+.idea/**/shelf/
+
+###############################################################################
+# VS CODE - LOCAL SETTINGS
+###############################################################################
+
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/settings.json
+
+###############################################################################
+# C++ / COMPILER GENERATED FILES
+###############################################################################
+
+*.obj
+*.o
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.app
+
+# NOTE:
+# This excludes generated binaries.
+# Do not ignore source files: *.cpp, *.h, *.cs.
+
+###############################################################################
+# OPERATING SYSTEM - WINDOWS
+###############################################################################
+
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+###############################################################################
+# OPERATING SYSTEM - MACOS
+###############################################################################
+
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+.DocumentRevisions-V100/
+
+###############################################################################
+# OPERATING SYSTEM - LINUX
+###############################################################################
+
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+###############################################################################
+# PYTHON / SCRIPTS / AUTOMATION
+###############################################################################
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+###############################################################################
+# NODE.JS / WEB TOOLS
+###############################################################################
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+.pnpm-debug.log*
+
+###############################################################################
+# TEMPORARY ARCHIVES AND EXPORTS
+###############################################################################
+
+*.7z
+*.rar
+*.tar
+*.gz
+*.zip
+*.tmp.zip
+
+###############################################################################
+# TEMPORARY EDITOR FILES
+###############################################################################
+
+*.swp
+*.swo
+*.swn
+*.sublime-workspace
+*.code-workspace
+
+###############################################################################
+# LOCAL ENVIRONMENT AND SECRETS
+###############################################################################
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+###############################################################################
+# PROJECT-SPECIFIC LOCAL FILES
+###############################################################################
+
+/Config/DefaultEditorPerProjectUserSettings.ini
+/Config/DefaultEditor.ini.backup
+
+###############################################################################
+# END OF UNREAL ENGINE GITIGNORE
+###############################################################################
