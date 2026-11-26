@@ -1,0 +1,3 @@
+[submodule "Plugins/ContentSharedAssets"]
+	path = Plugins/ContentSharedAssets
+	url = https://github.com/UnrealVFX/UnrealPostProcessingShaders
